@@ -1,0 +1,3 @@
+/cygdrive/s/CLionFile/refresh_c++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/s/CLionFile/refresh_c++/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/s/CLionFile/refresh_c++/cmake-build-debug/CMakeFiles/refresh_c__.dir

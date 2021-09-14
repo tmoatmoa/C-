@@ -1,0 +1,26 @@
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: /cygdrive/s/CLionFile/refresh_c++/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/cygdrive/c/Strawberry/c/bin/gmake.exe -f Makefile cmTC_2a520/fast && C:/Strawberry/c/bin/gmake  -f CMakeFiles/cmTC_2a520.dir/build.make CMakeFiles/cmTC_2a520.dir/build
+gmake[1]: Entering directory 'S:/CLionFile/refresh_c++/cmake-build-debug/CMakeFiles/CMakeTmp'
+gmake[1]: *** No rule to make target '/cygdrive/c/Users/tmoa/AppData/Local/JetBrains/CLion2021.2/cygwin_cmake/share/cmake-3.20.2/Modules/CMakeCCompilerABI.c', needed by 'CMakeFiles/cmTC_2a520.dir/CMakeCCompilerABI.c.o'.  Stop.
+gmake[1]: Leaving directory 'S:/CLionFile/refresh_c++/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:127: recipe for target 'cmTC_2a520/fast' failed
+gmake: *** [cmTC_2a520/fast] Error 2
+
+
+
+
+Detecting CXX compiler ABI info failed to compile with the following output:
+Change Dir: /cygdrive/s/CLionFile/refresh_c++/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/cygdrive/c/Strawberry/c/bin/gmake.exe -f Makefile cmTC_49aa3/fast && C:/Strawberry/c/bin/gmake  -f CMakeFiles/cmTC_49aa3.dir/build.make CMakeFiles/cmTC_49aa3.dir/build
+gmake[1]: Entering directory 'S:/CLionFile/refresh_c++/cmake-build-debug/CMakeFiles/CMakeTmp'
+gmake[1]: *** No rule to make target '/cygdrive/c/Users/tmoa/AppData/Local/JetBrains/CLion2021.2/cygwin_cmake/share/cmake-3.20.2/Modules/CMakeCXXCompilerABI.cpp', needed by 'CMakeFiles/cmTC_49aa3.dir/CMakeCXXCompilerABI.cpp.o'.  Stop.
+gmake[1]: Leaving directory 'S:/CLionFile/refresh_c++/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:127: recipe for target 'cmTC_49aa3/fast' failed
+gmake: *** [cmTC_49aa3/fast] Error 2
+
+
+
+
