@@ -3,4 +3,4 @@ project(refresh_c__)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(refresh_c__ main.cpp)
+add_executable(refresh_c__ main.cpp MyHead.h)

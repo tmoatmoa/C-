@@ -80,6 +80,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/cygdrive/s/CLionFile/refresh_c++/MyHead.h">
+			<Option target="refresh_c__"/>
+		</Unit>
 		<Unit filename="/cygdrive/s/CLionFile/refresh_c++/main.cpp">
 			<Option target="refresh_c__"/>
 		</Unit>
